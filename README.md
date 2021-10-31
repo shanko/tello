@@ -1,2 +1,3 @@
-# tello
-Ruby scripts to control Tello drones
+# Tello
+
+Scripts written in various languages, to control TelloEDU drones
